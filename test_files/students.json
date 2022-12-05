@@ -1,0 +1,32 @@
+[
+  {
+    "firstname": "Juan",
+    "surname": "Lopez",
+    "age": 18,
+    "major": "Linguistics"
+  },
+  {
+    "firstname": "Ulysses",
+    "surname": "Bennion",
+    "age": 25,
+    "major": "Mechanical Engineering"
+  },
+  {
+    "firstname": "Sarah",
+    "surname": "Grover",
+    "age": 19,
+    "major": "Mathematics"
+  },
+  {
+    "firstname": "Mary",
+    "surname": "Han",
+    "age": 20,
+    "major": "Nursing"
+  },
+  {
+    "firstname": "Jacob",
+    "surname": "Smith",
+    "age": 18,
+    "major": "Open Major"
+  }
+]

@@ -1,0 +1,64 @@
+{
+    "prizes": [
+        {
+            "year": "2021",
+            "category": "chemistry",
+            "laureates": [
+                {
+                    "id": "1002",
+                    "firstname": "Benjamin",
+                    "surname": "List",
+                    "motivation": "\"for the development of asymmetric organocatalysis\"",
+                    "share": "2"
+                },
+                {
+                    "id": "1003",
+                    "firstname": "David",
+                    "surname": "MacMillan",
+                    "motivation": "\"for the development of asymmetric organocatalysis\"",
+                    "share": "2"
+                }
+            ]
+        },
+        {
+            "year": "2021",
+            "category": "economics",
+            "laureates": [
+                {
+                    "id": "1007",
+                    "firstname": "David",
+                    "surname": "Card",
+                    "motivation": "\"for his empirical contributions to labour economics\"",
+                    "share": "2"
+                },
+                {
+                    "id": "1008",
+                    "firstname": "Joshua",
+                    "surname": "Angrist",
+                    "motivation": "\"for their methodological contributions to the analysis of causal relationships\"",
+                    "share": "4"
+                },
+                {
+                    "id": "1009",
+                    "firstname": "Guido",
+                    "surname": "Imbens",
+                    "motivation": "\"for their methodological contributions to the analysis of causal relationships\"",
+                    "share": "4"
+                }
+            ]
+        },
+        {
+            "year": "2021",
+            "category": "literature",
+            "laureates": [
+                {
+                    "id": "1004",
+                    "firstname": "Abdulrazak",
+                    "surname": "Gurnah",
+                    "motivation": "\"for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents\"",
+                    "share": "1"
+                }
+            ]
+        }
+        ]
+}
